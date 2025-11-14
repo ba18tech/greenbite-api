@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GreenBiteApiApplication {
 
 	public static void main(String[] args) {
+		//Welcome to GreenBite Projects
 		SpringApplication.run(GreenBiteApiApplication.class, args);
 	}
 
